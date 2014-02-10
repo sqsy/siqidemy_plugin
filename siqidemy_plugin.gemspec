@@ -2,7 +2,7 @@
 require File.expand_path('../lib/siqidemy_plugin/version', __FILE__)
 
 Gem::Specification.new do |gem|
-  gem.authors       = ["Kevin"]
+  gem.authors       = ["Kevin Hua"]
   gem.email         = ["siqishuyuan@gmail.com"]
   gem.description   = %q{Toolkit for creating a siqidemy plugin}
   gem.summary       = %q{Originated by Robin Ward, revised by Kevin Hua}
